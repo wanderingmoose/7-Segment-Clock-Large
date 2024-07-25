@@ -1,4 +1,4 @@
-# 7 segment display using addressable LED strips-W2812B. (When I find my code, I will add to repository)
+# 7 segment display using addressable LED strips-W2812B. 
 ### The interesting effect we are trying to achive is faux neon tube.
 ### Using fish tank air hose as part of defuser give this faux effect.
 ### Also used small magnetic wire to hold the tubing against board.
