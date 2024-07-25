@@ -2,6 +2,8 @@
 Files under Project. Have a good look at these two sites, I started this project from.
 https://www.instructables.com/Realistic-LED-Neon-Sign-Super-Bright/
 https://www.youtube.com/watch?v=cum6YLNeH-4
+## I forgot I already made a repository of this project. Check other stuff under: FAUX-NEON-7-Segment-Clock.
+Have fun with it.
 
 ### The interesting effect we are trying to achive is faux neon tube.
 ### Using fish tank air hose as part of defuser give this faux Neon effect.
