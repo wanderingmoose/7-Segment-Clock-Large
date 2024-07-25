@@ -3,6 +3,7 @@
 ### Using fish tank air hose as part of defuser give this faux effect.
 ### Also used small magnetic wire to hold the tubing against board.
 ### 3D printed defusers worked good.
+### The laser cut parts were orginally done a K40 laser engraver, to had to work within its limits for the board size.
 
 ## Lots of pictures below:
 
